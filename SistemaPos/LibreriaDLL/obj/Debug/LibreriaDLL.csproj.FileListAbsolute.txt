@@ -1,0 +1,6 @@
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\bin\Debug\LibreriaDLL.dll
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\bin\Debug\LibreriaDLL.pdb
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\obj\Debug\LibreriaDLL.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\obj\Debug\LibreriaDLL.dll
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\obj\Debug\LibreriaDLL.pdb
+C:\Users\Carlos\source\repos\SistemaPos\LibreriaDLL\obj\Debug\LibreriaDLL.csprojAssemblyReference.cache
